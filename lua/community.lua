@@ -10,7 +10,6 @@ return {
   { import = "astrocommunity.icon.mini-icons" },
   { import = "astrocommunity.indent.indent-blankline-nvim" },
   { import = "astrocommunity.indent.indent-rainbowline" },
-  { import = "astrocommunity.media.codesnap-nvim" },
   { import = "astrocommunity.media.presence-nvim" },
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.go" },
